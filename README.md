@@ -22,3 +22,13 @@ Modüller kurulduktan sonra `nitrocl.bat` veya `nitroboost.bat` 'ı çalıştır
 <p align="center">
   <img width="700" src="https://i.hizliresim.com/owiaxf9.png" alt="cli output"/>
 </p>  
+
+## Komutlar 🚀
+
+```sh
+!classic <İsim> <Kanıt Mesajı>
+```
+
+```sh
+!boost <İsim> <Kanıt Mesajı>
+```
